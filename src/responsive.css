@@ -1,0 +1,45 @@
+/* 
+@media (min-width: 768px) {
+    
+    .nav-bar {
+     
+      width: 100%;
+    }
+  
+    
+    h1 {
+      font-size: 24px;
+    }
+  
+    
+    .list-movies {
+      display: grid;
+      grid-template-columns: repeat(2, 1fr);
+      grid-gap: 16px;
+    }
+  }
+  
+ 
+  @media (max-width: 480px) {
+   
+    .nav-bar {
+    
+      flex-direction: column;
+    }
+  
+    
+    h1 {
+      font-size: 18px;
+    }
+  
+  
+    .list-movies {
+      display: block;
+    }
+  
+    
+    .details {
+      width: 100%;
+    }
+  }
+   */
