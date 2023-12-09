@@ -55,7 +55,7 @@ body {
   background-color: var(--color-background-500);
   border-radius: 0.9rem;
   position: relative;
-  overflow: scroll;
+/*   overflow: scroll; */
 }
 
 .loader {
@@ -302,11 +302,11 @@ details-overview p {
   transition: all 0.3s;
 }
 
-.btn-add:hover {
+btn-add:hover {
   background-color: var(--color-primary-light);
 }
 
-.seconds {
+seconds {
   background-color: var(--color-background-100);
   width: 8rem;
   border-radius: 10rem;
@@ -316,7 +316,7 @@ details-overview p {
   margin-top: 2.4rem;
 }
 
-.btn-back {
+btn-back {
   position: absolute;
   top: 0.6rem;
   left: 0.6rem;
