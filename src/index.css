@@ -54,8 +54,8 @@ body {
   max-width: 42rem;
   background-color: var(--color-background-500);
   border-radius: 0.9rem;
+  /* overflow: scroll; */
   position: relative;
-  overflow: scroll;
 }
 
 .loader {
@@ -138,6 +138,7 @@ body {
 .list {
   list-style: none;
   padding: 0.8rem 0;
+  /* overflow: scroll; */
 }
 
 .list-watched {
@@ -273,7 +274,7 @@ body {
   line-height: 1.1;
 }
 
-details-overview p {
+.details-overview p {
   display: flex;
   align-items: center;
   gap: 0.8rem;
@@ -324,7 +325,8 @@ btn-back {
   aspect-ratio: 1;
   border-radius: 50%;
   border: none;
-/*   background-color: #fff; */
+  /* background-color: var(--color-text); */
+  background-color: #fff;
   color: var(--color-background-500);
   box-shadow: 0 8px 20px rgba(0, 0, 0, 0.8);
   font-family: sans-serif;
@@ -335,4 +337,3 @@ btn-back {
   display: flex;
   align-items: center;
   justify-content: center;
-}
