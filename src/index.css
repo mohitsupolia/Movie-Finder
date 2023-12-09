@@ -324,7 +324,7 @@ btn-back {
   aspect-ratio: 1;
   border-radius: 50%;
   border: none;
-  background-color: #fff;
+/*   background-color: #fff; */
   color: var(--color-background-500);
   box-shadow: 0 8px 20px rgba(0, 0, 0, 0.8);
   font-family: sans-serif;
