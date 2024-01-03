@@ -17,11 +17,11 @@ Create a React.js web app using HTML, CSS, and JavaScript for discovering and ma
 . User Feedback
 
 ## Installation
-1. Install the Extension in VSCode of ReactJs
+### Step 1:   Install the Extension in VSCode of ReactJs
 
 (a) clicking on the Extensions icon in the Activity Bar on the side of VS Code or the View: Extensions command (Ctrl+Shift+X)
 
-2. Go to the React terminal and following these steps:
+### Step 2:  Go to the React terminal and following these steps:
 
  (a) Create React App
  
@@ -31,7 +31,7 @@ Create a React.js web app using HTML, CSS, and JavaScript for discovering and ma
 
  ###  `npm start`
 
-3. Runs the app in the development mode.
+### Step 3:  Runs the app in the development mode.
    
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
