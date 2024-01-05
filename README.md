@@ -45,9 +45,6 @@ You can learn more in the [Create React App documentation](https://radixweb.com/
 
 To find any type of Movie and add to the watchlist to your favourate movies.
 
-## Project Images
-
-<img width="1099" alt="movie-finder" src="https://github.com/mohitsupolia/Movie-Finder/assets/104218088/7ed1358e-9c0f-4e4b-96b4-ea1db315e536">
 <img width="1113" alt="movie-finder-home" src="https://github.com/mohitsupolia/Movie-Finder/assets/104218088/83cccc79-b830-4f1c-acfd-33abae76afed">
 
 
