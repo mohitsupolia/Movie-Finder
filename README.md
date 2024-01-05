@@ -1,5 +1,7 @@
 # Movie Finder Website With ReactJs
 
+<img width="1099" alt="movie-finder" src="https://github.com/mohitsupolia/Movie-Finder/assets/104218088/7ed1358e-9c0f-4e4b-96b4-ea1db315e536">
+
 ### Description
 Create a React.js web app using HTML, CSS, and JavaScript for discovering and managing movies. Users can search, view details, and add/remove movies to their watchlist. Features include user authentication, responsive design, integration with a movie database API, and personalized recommendations.
 
