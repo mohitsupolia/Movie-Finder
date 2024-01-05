@@ -47,4 +47,5 @@ To find any type of Movie and add to the watchlist to your favourate movies.
 
 <img width="1113" alt="movie-finder-home" src="https://github.com/mohitsupolia/Movie-Finder/assets/104218088/83cccc79-b830-4f1c-acfd-33abae76afed">
 
-
+## Acknowledgment
+Thanks to React.js, JavaScript, and external APIs for making the Movie Finder project possible. Appreciation to the open-source community, CSS frameworks, and development tools for their contributions. This project stands as a collaborative effort in the spirit of knowledge sharing and innovation.
